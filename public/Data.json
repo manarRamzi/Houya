@@ -1,0 +1,90 @@
+{
+    "data1": [
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img1.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img2.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img3.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img4.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img1.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img2.png"
+        }
+    ],
+    "data2":[
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img5.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img6.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img7.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img8.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img5.png"
+        },
+        {
+            "title": "معمول أصابع ماما تمر",
+            "subTitle": "تمور الرفاعي",
+            "price": "500",
+            "rate": "4.5",
+            "img": "./image/img6.png"
+        }
+    ]
+}
