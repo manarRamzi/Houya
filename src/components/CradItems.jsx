@@ -1,5 +1,4 @@
 import React from "react";
-import img from "../Images/37rZsPNNYYLz (1).png";
 import hart from "../Images/heart.png";
 import star from "../Images/Shape.png";
 import cart from "../Images/shopping-cart.png"
