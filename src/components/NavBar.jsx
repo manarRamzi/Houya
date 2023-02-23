@@ -49,6 +49,7 @@ function NavBar() {
             type="text"
             placeholder="ما الذي تبحث عنه ؟"
             className="Search"
+            maxLength={30}
           />
         </form>
         
@@ -69,6 +70,7 @@ function NavBar() {
             type="text"
             placeholder="ما الذي تبحث عنه ؟"
             className="Search"
+            maxLength={"30"}
           />
         </form>
         <button className="login">تسجيل الدخول</button>

@@ -462,7 +462,7 @@ font-style: normal;
 text-align: left;
 color: #ffffff;
 }
-.info_last .info{
+.info_last ,.info{
   margin-right: 40px;
 }
 @media (max-width: 480px) {
@@ -488,5 +488,7 @@ color: #ffffff;
     margin-right: 8px;
   }
   .phone span {margin-right: 67px;}
-  
+  .info_last ,.info{
+    margin-right: 0px;
+  }
 }
