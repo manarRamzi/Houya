@@ -20,10 +20,6 @@
     url("./fonts/Expo Arabic Medium.ttf ") format("truetype");
 }
 
-:root {
-  --main_color: #11998e;
-  --white: #ffffff;
-}
 
 * {
   box-sizing: border-box;
